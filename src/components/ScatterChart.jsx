@@ -1,7 +1,7 @@
 // Implement Specific Chart Components
 // src/components/ScatterChart.jsx
 import React from 'react';
-import ChartComponent from './ChartComponent';
+import ChartComponent from '../../ChartComponent';
 
 const ScatterChart = ({ data }) => {
   const chartData = {

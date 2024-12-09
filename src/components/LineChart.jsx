@@ -1,7 +1,7 @@
 // Implement Specific Chart Components
 // src/components/LineChart.jsx
 import React from 'react';
-import ChartComponent from './ChartComponent';
+import ChartComponent from '../../ChartComponent';
 
 const LineChart = ({ data }) => {
   const chartData = {

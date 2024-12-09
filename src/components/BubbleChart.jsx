@@ -1,7 +1,7 @@
 // Implement Specific Chart Components
 // src/components/BubbleChart.jsx
 import React from 'react';
-import ChartComponent from './ChartComponent';
+import ChartComponent from '../../ChartComponent';
 
 const BubbleChart = ({ data }) => {
   const chartData = {
